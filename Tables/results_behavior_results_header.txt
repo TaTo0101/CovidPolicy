@@ -1,0 +1,3 @@
+   & \multicolumn{3}{c}{ \textbf{Behavior Variable}}   \\
+  \cmidrule(lr{.75em}){2-3}  \cmidrule(lr{.75em}){3-4}  
+ \smashedcell{\textbf{Covariate}}& Retail & Grocery & Parks \\ 

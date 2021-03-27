@@ -1,0 +1,59 @@
+% latex table generated in R 4.0.2 by xtable 1.8-4 package
+% Sat Mar 27 18:34:06 2021
+\begingroup\tiny
+\begin{longtable}{lcccc}
+  \toprule
+ & Estimate & Std.Err* & Z-stat. value & p-value \\ 
+  \midrule
+lag...change.Cases..7. & 0.0487 & 0.1011 & 0.481 & 0.6305 \\ 
+  lag.Events..7. & 0.0531 & 0.3476 & 0.153 & 0.8784 \\ 
+  lag.Travel..7. & -0.4168 & 0.1246 & -3.346 & 8e-04 \\ 
+  lag.Distance..7. & 0.0531 & 0.3476 & 0.153 & 0.8784 \\ 
+  lag.Public..7. & -0.7383 & 0.4416 & -1.672 & 0.0945 \\ 
+  lag.Lock..7. & -0.7747 & 0.2927 & -2.647 & 0.0081 \\ 
+  lag.Closure..7. & 0.0744 & 0.52 & 0.143 & 0.8863 \\ 
+  lag.Visit..7. & -0.3254 & 0.2958 & -1.1 & 0.2713 \\ 
+  lag.Mask..7. & 0.0531 & 0.3476 & 0.153 & 0.8784 \\ 
+  lag...Change.Tests..7. & -0.0617 & 0.3489 & -0.177 & 0.8595 \\ 
+  lag.Total.No..Deaths..7. & 0.0744 & 0.52 & 0.143 & 0.8863 \\ 
+  lag.Total.No..Deaths..14. & 0 & NaN & NaN & NaN \\ 
+  Week.18.Dummy & 0.0213 & 0.2467 & 0.086 & 0.9315 \\ 
+  Week.19.Dummy & 0.3784 & 0.0932 & 4.06 & 0 \\ 
+  Week.20.Dummy & 0.1987 & 0.1628 & 1.22 & 0.2225 \\ 
+  Week.21.Dummy & -0.169 & 0.1577 & -1.072 & 0.2837 \\ 
+  Week.22.Dummy & -0.673 & 0.3321 & -2.027 & 0.0427 \\ 
+  Week.23.Dummy & 0.1883 & 0.3396 & 0.554 & 0.5796 \\ 
+  Week.24.Dummy & 0.1172 & 0.4131 & 0.284 & 0.7764 \\ 
+  Week.25.Dummy & 0.2368 & 0.3627 & 0.653 & 0.5138 \\ 
+  Week.26.Dummy & -1.0156 & 0.8844 & -1.148 & 0.251 \\ 
+  Week.27.Dummy & 0.4734 & 0.4559 & 1.038 & 0.2993 \\ 
+  Week.28.Dummy & 0.1819 & 0.3081 & 0.591 & 0.5545 \\ 
+  Week.29.Dummy & 0.434 & 1.0716 & 0.405 & 0.6855 \\ 
+  Week.30.Dummy & 0.1246 & 0.5213 & 0.239 & 0.8111 \\ 
+  Week.31.Dummy & -0.4116 & 0.7724 & -0.533 & 0.594 \\ 
+  Week.32.Dummy & 0.3928 & 0.5617 & 0.699 & 0.4846 \\ 
+  Week.33.Dummy & -0.0495 & 0.3857 & -0.128 & 0.8982 \\ 
+  Week.34.Dummy & 0.2094 & 0.1725 & 1.214 & 0.2248 \\ 
+  Week.35.Dummy & -0.4354 & 0.7715 & -0.564 & 0.5728 \\ 
+  Week.36.Dummy & -0.0134 & 0.4115 & -0.033 & 0.9737 \\ 
+  Week.37.Dummy & 0.0145 & 0.645 & 0.022 & 0.9824 \\ 
+  Week.38.Dummy & -0.6205 & 0.7941 & -0.781 & 0.4348 \\ 
+  Week.39.Dummy & 0.4401 & 0.3368 & 1.307 & 0.1912 \\ 
+  Week.40.Dummy & 0.0164 & 0.1324 & 0.124 & 0.9013 \\ 
+  Week.41.Dummy & -0.5462 & 0.4247 & -1.286 & 0.1984 \\ 
+  Week.42.Dummy & 0.4178 & 0.5791 & 0.721 & 0.4709 \\ 
+  Week.test\_stat\_header.Dummy & 0.2554 & 0.7003 & 0.365 & 0.7151 \\ 
+  Week.test\_results\_mod\_4\_slope.Dummy & -0.9201 & 0.7316 & -1.258 & 0.2084 \\ 
+  Week.test\_results\_mod\_4\_hansen.Dummy & -0.011 & 0.249 & -0.044 & 0.9649 \\ 
+  Week.test\_results\_mod\_4\_serial\_cor.Dummy & -0.2592 & 0.1903 & -1.362 & 0.1732 \\ 
+  Week.NA.Dummy & 0.7409 & 0.5547 & 1.336 & 0.1815 \\ 
+  Week.NA.Dummy.1 & 0.3571 & 0.2472 & 1.444 & 0.1487 \\ 
+  X & Test statistic & p-value &  &  \\ 
+  Wald.test.. & 78.5681 & 0 &  &  \\ 
+  Hansen.s.J.Test & 1.8873 & 1 &  &  \\ 
+  X2nd.Order.Autocor..Test & 0.0537 & 0.9572 &  &  \\ 
+   \bottomrule
+\caption{Results of two-step GMM estimation of policy and information on % change in COVID-19 cases for all countries except: Canada, Poland, Spain, Luxembourg, Estonia, Slovenia, and Australia. *Windmeijer corrected standard errors. ** Wald test that all slope coefficents are jointly zero.} 
+\label{tab_results:cases_spec_4_full_wo_behavior}
+\end{longtable}
+\endgroup

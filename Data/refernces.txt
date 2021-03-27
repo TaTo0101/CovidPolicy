@@ -1,0 +1,5 @@
+france test data : https://www.data.gouv.fr/en/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/#_
+
+sweden test data : https://datagraphics.dckube.scilifelab.se/dataset/bbbaf64a25a1452287a8630503f07418
+
+weekly test data : https://www.ecdc.europa.eu/en/publications-data/covid-19-testing

@@ -1,0 +1,5 @@
+Total Tests:
+1.) Impute via rolling mean: India, Lithuania, Canada, Colombia, Austria, Denmark, Estonia, Italy, Latvia, Luxembourg, New Zealand, South Africa, United States
+2.) Impute via rolling mean and average of other European countries if more than 5 are available: # Poland, UK, Ireland, Slovenia, Hungary, Slovakia
+3.) Convert weekly to daily data and calculate missing values via average of other European countries + rolling mean
+4.) Impute all gmr missings via rolling mean

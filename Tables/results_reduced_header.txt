@@ -1,0 +1,3 @@
+ & \multicolumn{4}{c}{ \textbf{Specification}}   \\
+  \cmidrule(lr{.75em}){2-3}  \cmidrule(lr{.75em}){3-4}  \cmidrule(lr{.75em}){4-5}
+ \smashedcell{\textbf{Covariate}} & All & Europe & Non-Europe & Reduced \\ 
